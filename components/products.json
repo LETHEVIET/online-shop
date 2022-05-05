@@ -1,0 +1,90 @@
+{
+    "products":[
+
+        {
+            "name": "Hooded thermal anorak",
+            "rating": {
+                "total": 25,
+                "count": 5
+            },
+            "price": 270.00,
+            "description": "Hooded thermal anorak",
+            "sale": false,
+            "images": [
+                "img/product/product-1.jpg"
+            ]
+        },
+
+        {
+            "name": "Hooded thermal anorak",
+            "rating": {
+                "total": 25,
+                "count": 5
+            },
+            "price": 270.00,
+            "description": "Hooded thermal anorak",
+            "sale": true,
+            "images": [
+                "img/product/product-2.jpg"
+            ]
+        },
+
+        {
+            "name": "Hooded thermal anorak",
+            "rating": {
+                "total": 25,
+                "count": 5
+            },
+            "price": 270.00,
+            "description": "Hooded thermal anorak",
+            "sale": false,
+            "images": [
+                "img/product/product-3.jpg"
+            ]
+        },
+
+        {
+            "name": "Hooded thermal anorak",
+            "rating": {
+                "total": 25,
+                "count": 5
+            },
+            "price": 270.00,
+            "description": "Hooded thermal anorak",
+            "sale": false,
+            "images": [
+                "img/product/product-4.jpg"
+            ]
+        },
+
+        {
+            "name": "Hooded thermal anorak",
+            "rating": {
+                "total": 25,
+                "count": 5
+            },
+            "price": 270.00,
+            "description": "Hooded thermal anorak",
+            "sale": false,
+            "images": [
+                "img/product/product-5.jpg"
+            ]
+        },
+
+        {
+            "name": "Hooded thermal anorak",
+            "rating": {
+                "total": 25,
+                "count": 5
+            },
+            "price": 270.00,
+            "description": "Hooded thermal anorak",
+            "sale": false,
+            "images": [
+                "img/product/product-6.jpg"
+            ]
+        }
+
+    ]
+
+}
