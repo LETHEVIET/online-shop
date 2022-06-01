@@ -8,7 +8,7 @@ const orderSchema = new mongoose.Schema({
                 color: String,
                 quantity: Number
             }, 
-            id: String,
+            id: String
         }],
         billingDetals:{
             name: String,

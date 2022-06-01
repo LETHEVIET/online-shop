@@ -8,7 +8,7 @@ import OrderService from "../Services/order.service";
 const Checkout = () => {
     const globalState = useSelector((state) => state.cart.products);
 
-    const res = useSelector((state) => {
+    let res = useSelector((state) => {
         let tt = 0
         for(let i of state.cart.products){
             tt += i.productDetals.price * i.orderDetals.quantity

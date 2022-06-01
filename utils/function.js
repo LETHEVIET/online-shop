@@ -1,7 +1,7 @@
 
 export const int2VND = (price) =>{
-    const str = String(price)
-    const res = ""
+    let str = String(price)
+    let res = ""
     let c = 0;
 
     for (let i = str.length - 1; i >= 0; i--){
